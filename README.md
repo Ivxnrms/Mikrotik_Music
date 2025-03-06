@@ -50,4 +50,5 @@ or:
 4. Type "run (number)" to run the script.
 
 
-### I am NOT the author of this scripts, this is just a repo to store 'em, and to teach people how to use it :)
+
+I am NOT the author of this scripts, this is just a repo to store 'em, and to teach people how to use it :p
