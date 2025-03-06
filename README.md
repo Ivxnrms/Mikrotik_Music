@@ -40,6 +40,7 @@ To run the script:
 1. Navigate to **System** > **Scripts** in WebFig or WinBox.
 2. Select the `HappyBirthday` script from the list.
 3. Click on **Run Script** or the `Start` button.
+   
 
 or:
 
@@ -47,3 +48,6 @@ or:
 2. Type "system", then "scripts".
 3. Type "print" to see the run number of the script
 4. Type "run (number)" to run the script.
+
+
+# I am NOT the author of this scripts, this is just a repo to store 'em, and to teach people how to use it :)
