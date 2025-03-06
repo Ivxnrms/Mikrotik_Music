@@ -47,5 +47,3 @@ or:
 2. Type "system", then "scripts".
 3. Type "print" to see the run number of the script
 4. Type "run (number)" to run the script.
-
-## Enjoy!
